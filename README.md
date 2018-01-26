@@ -1,7 +1,7 @@
 # Fetch Data using jQuery, Ajax and PHP
 
-## This is a simple application developed to show how to fecth database records with a button click without refreshing the web page. 
-### Used technologies : Codeigniter as the PHP frmaework, Ajax, jQuery, MYSQL and Bootstrap as CSS framework for styling the pages.
+## This is a simple application developed to show how to fetch database records with a button click without refreshing the web page. 
+### Used technologies : Codeigniter as the PHP framework, Ajax, jQuery, MYSQL and Bootstrap as CSS framework for styling the pages.
 
 1. Download the zip file.
 2. Extract it and rename as **FetchAjax**.
